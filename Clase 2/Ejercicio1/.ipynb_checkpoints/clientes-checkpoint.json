@@ -1,0 +1,26 @@
+[
+    {
+        "id_cliente": 101,
+        "nombre": "Juan Perez",
+        "email": "juan@email.com",
+        "ciudad": "Buenos Aires"
+    },
+    {
+        "id_cliente": 102,
+        "nombre": "Maria Gomez",
+        "email": "maria@email.com",
+        "ciudad": "Cordoba"
+    },
+    {
+        "id_cliente": 103,
+        "nombre": "Carlos Lopez",
+        "email": "carlos@email.com",
+        "ciudad": "Rosario"
+    },
+    {
+        "id_cliente": 104,
+        "nombre": "Ana Torres",
+        "email": "ana@email.com",
+        "ciudad": "Mendoza"
+    }
+]
